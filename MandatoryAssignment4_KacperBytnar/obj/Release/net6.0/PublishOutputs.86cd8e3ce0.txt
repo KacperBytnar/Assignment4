@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment4_KacperBytnar.exe
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment4_KacperBytnar.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment4_KacperBytnar.deps.json
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment4_KacperBytnar.runtimeconfig.json
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\MandatoryAssignment4_KacperBytnar.pdb
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Assignment1_KacperBytnar.dll
+C:\Users\Acer\source\repos\MandatoryAssignment\MandatoryAssignment4_KacperBytnar\MandatoryAssignment4_KacperBytnar\obj\Release\net6.0\PubTmp\Out\Assignment1_KacperBytnar.pdb
